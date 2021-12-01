@@ -123,6 +123,10 @@
 		{
 			"name": "1.17.1",
 			"protocolId": 756
+		},
+		{
+			"name": "1.18",
+			"protocolId": 757
 		}
 	]
 }
